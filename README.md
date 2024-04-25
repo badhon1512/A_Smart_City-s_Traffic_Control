@@ -1,1 +1,1 @@
-This is a project that was developed by using the C++ OpenGL library.
+This project was developed by using the C++ OpenGL library. This project develops an intelligent traffic control system designed for smart cities. Using advanced technologies, the system aims to optimize traffic flow, reduce congestion, and improve safety in urban areas. 
